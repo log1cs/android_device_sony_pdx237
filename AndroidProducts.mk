@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/custom_pdx237.mk
-
-COMMON_LUNCH_CHOICES := \
-    custom_pdx237-user \
-    custom_pdx237-userdebug \
-    custom_pdx237-eng
