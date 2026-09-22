@@ -47,7 +47,7 @@ PRODUCT_PACKAGES += \
     SonyPDX237NfcNciRes
 
 DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay-lineage
+    $(LOCAL_PATH)/overlay-custom
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
