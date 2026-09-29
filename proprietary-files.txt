@@ -5,6 +5,9 @@
 vendor/etc/acdbdata/kalama_qrd/Sony_acdb_cal.acdb
 vendor/etc/acdbdata/kalama_qrd/Sony_workspaceFileXml.qwsp
 
+# Audio configs
+vendor/etc/audio/sku_kalama/mixer_paths_kalama_qrd.xml
+
 # Audio FX Modules
 vendor/etc/zoom_noise_reduction/znr_Front_44k.tbl
 vendor/etc/zoom_noise_reduction/znr_Front_48k.tbl
@@ -628,6 +631,9 @@ vendor/etc/wifi/bdwlan.e30;SYMLINK=vendor/firmware/kiwi/bdwlan.e30
 vendor/etc/wifi/bdwlan.e31;SYMLINK=vendor/firmware/kiwi/bdwlan.e31
 vendor/etc/wifi/regdb.bin;SYMLINK=vendor/firmware/kiwi/regdb.bin
 vendor/etc/wifi/wifi_txpower.conf
+
+# Sensors
+vendor/etc/sensors/config/kailua_ak991x_0_somc_product.json
 
 # SKU
 odm/etc/customization/SO-53D/config.prop
